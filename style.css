@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: rgb(2, 5, 48);
+color: aliceblue;
+min-height: 100vh;
+}
